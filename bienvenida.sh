@@ -9,3 +9,6 @@ elif [ $HORA -ge 12 ] && [ $HORA -lt 18 ]; then
 else
   echo "Buenas noches $NAME, la hora es: $HORAMINUTO"
 fi
+
+
+echo "Hola!" 
